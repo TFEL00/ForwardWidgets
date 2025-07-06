@@ -1,0 +1,16 @@
+{
+  "title": "TFEL's Widget",
+  "description": "",
+  "icon": "https://raw.githubusercontent.com/TFEL00/ForwardWidgets/refs/heads/main/icon.png",
+  "widgets": [
+    {
+      "id": "TMDB聚合",
+      "title": "TMDB聚合",
+      "description": "TMDB影视数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "TFEL",
+      "url": "https://raw.githubusercontent.com/TFEL00/ForwardWidgets/refs/heads/main/widgets/TMDB.js"
+    }
+  ]
+}
