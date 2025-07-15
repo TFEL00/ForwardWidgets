@@ -11,6 +11,24 @@
       "version": "1.2.8",
       "author": "阿米诺斯",
       "url": "https://raw.githubusercontent.com/TFEL00/ForwardWidgets/refs/heads/main/widgets/影视榜单1.2.8.js"
-    }
+    },
+    {
+      "id": "imdb_discovery_final_v2",
+      "title": "IMDB分类",
+      "description": "聚合IMDB热门影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "2.0.0",
+      "author": "Autism",
+      "url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/IMDb.js"
+    },
+    {
+      "id": "bangumi_charts_tmdb_v3",
+      "title": "Bangumi榜单",
+      "description": "获取Bangumi近期热门、每日放送数据，支持榜单筛选。",
+      "requiredVersion": "0.0.1",
+      "version": "2.0.0", 
+      "author": "Autism",
+      "url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/Bangumi_v2.0.0.js"
+    },
   ]
 }
