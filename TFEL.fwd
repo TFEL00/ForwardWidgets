@@ -1,6 +1,6 @@
 {
   "title": "TFEL's Widget",
-  "description": "",
+  "description": "自用Forward模块聚合",
   "icon": "https://raw.githubusercontent.com/TFEL00/ForwardWidgets/refs/heads/main/icon.png",
   "widgets": [
     {
