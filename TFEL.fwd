@@ -30,5 +30,41 @@
       "author": "Autism",
       "url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/Bangumi_v2.0.0.js"
     },
+    {
+      "id": "douban",
+      "title": "豆瓣分类",
+      "description": "解析豆瓣想看、在看、已看以及个性化推荐",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.13",
+      "author": "huangxd",
+      "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/douban.js"
+    },
+    {
+      "id": "trakt",
+      "title": "Trakt分类",
+      "description": "解析Trakt想看、在看、已看等以及个性化推荐",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.11",
+      "author": "huangxd",
+      "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/trakt.js"
+    },
+    {
+      "id": "zhuijurili",
+      "title": "追剧日历",
+      "description": "解析追剧日历、各项榜单、今日推荐等",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.3",
+      "author": "huangxd",
+      "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/zhuijurili.js"
+    },
+    {
+      "id": "yatu",
+      "title": "雅图榜单",
+      "description": "解析雅图每日放送更新以及各类排行榜",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.6",
+      "author": "huangxd",
+      "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/yatu.js"
+    },
   ]
 }
