@@ -1,15 +1,15 @@
 {
   "title": "TFEL's Widget",
-  "description": "自用Forward模块聚合",
+  "description": "",
   "icon": "https://raw.githubusercontent.com/TFEL00/ForwardWidgets/refs/heads/main/icon.png",
   "widgets": [
     {
-      "id": "影视榜单",
-      "title": "影视榜单",
-      "description": "聚合豆瓣、TMDB、IMDB和Bangumi的影视动画榜单",
+      "id": "TMDB聚合",
+      "title": "TMDB聚合",
+      "description": "TMDB影视数据",
       "requiredVersion": "0.0.1",
-      "version": "1.2.8",
-      "author": "阿米诺斯",
+      "version": "1.0.0",
+      "author": "TFEL",
       "url": "https://raw.githubusercontent.com/TFEL00/ForwardWidgets/refs/heads/main/widgets/影视榜单1.2.8.js"
     }
   ]
