@@ -6,7 +6,7 @@
     {
       "id": "影视榜单1.2.8",
       "title": "影视榜单",
-      "description": "TMDB影视数据",
+      "description": "聚合豆瓣、TMDB、IMDB和Bangumi的影视动画榜单",
       "requiredVersion": "0.0.1",
       "version": "1.2.8",
       "author": "阿米诺斯",
