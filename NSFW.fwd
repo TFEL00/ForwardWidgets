@@ -8,7 +8,7 @@
       "title": "91Porn",
       "description": "在线观看91Porn视频",
       "requiredVersion": "0.0.1",
-      "version": "0.5.0",
+      "version": "0.9.4",
       "author": "Baran",
       "url": "https://github.com/baranwang/forward-widget/releases/latest/download/91porn.js"
     },
@@ -26,7 +26,7 @@
       "title": "Jable",
       "description": "在线观看Jable视频",
       "requiredVersion": "0.0.1",
-      "version": "1.0.6",
+      "version": "1.0.8",
       "author": "nibiru",
       "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/jable.js"
     },
@@ -63,7 +63,7 @@
       "description": "在线观看Xvideos视频",
       "requiredVersion": "0.0.1",
       "version": "0.9.4",
-      "author": "匿名",
+      "author": "Baran",
       "url": "https://github.com/baranwang/forward-widget/releases/latest/download/xvideos.js"
     },
   ]
