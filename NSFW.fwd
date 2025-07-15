@@ -1,0 +1,70 @@
+{
+  "title": "TFEL's NSFW模块",
+  "description": "自用NSFW模块合集",
+  "icon": "https://raw.githubusercontent.com/TFEL00/ForwardWidgets/refs/heads/main/icon.png",
+  "widgets": [
+    {
+      "id": "91porn",
+      "title": "91Porn",
+      "description": "在线观看91Porn视频",
+      "requiredVersion": "0.0.1",
+      "version": "0.5.0",
+      "author": "Baran",
+      "url": "https://github.com/baranwang/forward-widget/releases/latest/download/91porn.js"
+    },
+    {
+      "id": "Bitch",
+      "title": "Bitch直播",
+      "description": "在线观看Bitch直播",
+      "requiredVersion": "0.0.1",
+      "version": "0.0.1",
+      "author": "TOM",
+      "url": "https://raw.githubusercontent.com/tom-proxy/FW/refs/heads/jk/zb.js"
+    },
+    {
+      "id": "jable",
+      "title": "Jable",
+      "description": "在线观看Jable视频",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.6",
+      "author": "nibiru",
+      "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/jable.js"
+    },
+    {
+      "id": "ti.bemarkt.javday",
+      "title": "JavDay",
+      "description": "在线观看JavDay视频",
+      "requiredVersion": "0.0.1",
+      "version": "1.1.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/javday.js"
+    },
+    {
+      "id": "ti.bemarkt.javrate",
+      "title": "JavRate",
+      "description": "在线观看JavRate视频",
+      "requiredVersion": "0.0.1",
+      "version": "2.1.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/javrate.js"
+    },
+    {
+      "id": "Pornhub",
+      "title": "PornHub",
+      "description": "在线观看PornHub视频",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.4",
+      "author": "海带",
+      "url": "https://raw.githubusercontent.com/Madai-v/ForwardWidgets/refs/heads/main/Widgets/ph.js"
+    },
+    {
+      "id": "unknow.baranwang.xvideos",
+      "title": "XVideos",
+      "description": "在线观看Xvideos视频",
+      "requiredVersion": "0.0.1",
+      "version": "0.9.4",
+      "author": "匿名",
+      "url": "https://github.com/baranwang/forward-widget/releases/latest/download/xvideos.js"
+    },
+  ]
+}
