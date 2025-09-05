@@ -13,6 +13,15 @@
       "url": "https://widgets-xd.vercel.app/Widgets/combined.js"
     },
     {
+      "id": "forward.combined.media.lists.en",
+      "title": "Movie & TV Lists",
+      "description": "Movie & TV Lists",
+      "requiredVersion": "0.0.2",
+      "version": "1.0.0",
+      "author": "Butterfly",
+      "url": "https://widgets-xd.vercel.app/Widgets/Move_list_EN.js"
+    },
+    {
       "id": "imdb_discovery_final_v2",
       "title": "IMDB分类",
       "description": "聚合IMDB热门影视资源",
