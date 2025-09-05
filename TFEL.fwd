@@ -76,6 +76,15 @@
       "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/danmu_auto.js"
     },
     {
+      "id": "baranwang.danmu.universe",
+      "title": "通用弹幕",
+      "description": "通用弹幕插件，支持腾讯、优酷、爱奇艺、哔哩哔哩等平台",
+      "requiredVersion": "0.0.2",
+      "version": "0.0.16",
+      "author": "Baran",
+      "url": "https://unpkg.com/@forward-widget/danmu-universe"
+    },
+    {
       "id": "letterboxd",
       "title": "Letterboxd",
       "description": "解析Letterboxd片单内的影片",
