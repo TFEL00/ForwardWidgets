@@ -8,7 +8,7 @@
       "title": "影视榜单",
       "description": "聚合豆瓣、TMDB的影视榜单",
       "requiredVersion": "0.0.1",
-      "version": "1.3.8",
+      "version": "1.0.0",
       "author": "阿米诺斯",
       "url": "https://widgets-xd.vercel.app/Widgets/combined.js"
     },
