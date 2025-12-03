@@ -40,15 +40,6 @@
       "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/zhuijurili.js"
     },
     {
-      "id": "VodStream",
-      "title": "VOD聚合",
-      "description": "聚合多个VOD站点",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "2kuai",
-      "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/VodStream.js"
-    },
-    {
       "id": "forward.auto.danmu",
       "title": "自动链接弹幕",
       "description": "自动获取播放链接并从服务器获取弹幕",
