@@ -10,7 +10,8 @@
       "requiredVersion": "0.0.1",
       "version": "0.9.4",
       "author": "Baran",
-      "url": "https://widgets-xd.vercel.app/Widgets/91porn.js"
+      "url": "https://for-ward.vercel.app/Widgets/91porn.js",
+      "backup_url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/nsfw.91porn.js"
     },
     {
       "id": "missav",
@@ -19,7 +20,8 @@
       "requiredVersion": "0.0.2",
       "version": "1.0.0",
       "author": "𝓑𝓾𝓽𝓽𝓮𝓻𝓯𝓵𝔂",
-      "url": "https://widgets-xd.vercel.app/Widgets/MissAV.js"
+      "url": "https://for-ward.vercel.app/Widgets/MissAV.js",
+      "backup_url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/missav.js"
     },
     {
       "id": "jable",
@@ -28,7 +30,8 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.8",
       "author": "nibiru",
-      "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/jable.js"
+      "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/jable.js",
+      "backup_url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/🔞 jable.js"
     },
     {
       "id": "ti.bemarkt.javday",
@@ -37,7 +40,8 @@
       "requiredVersion": "0.0.1",
       "version": "1.1.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/javday.js"
+      "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/javday.js",
+      "backup_url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/ti.bemarkt.javday.js"
     },
     {
       "id": "ti.bemarkt.javrate",
@@ -46,7 +50,8 @@
       "requiredVersion": "0.0.1",
       "version": "2.1.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/javrate.js"
+      "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/javrate.js",
+      "backup_url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/ti.bemarkt.javrate.js"
     },
     {
       "id": "Pornhub",
@@ -55,7 +60,8 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.5",
       "author": "海带",
-      "url": "https://raw.githubusercontent.com/Madai-v/ForwardWidgets/refs/heads/main/Widgets/ph.js"
+      "url": "https://raw.githubusercontent.com/Madai-v/ForwardWidgets/refs/heads/main/Widgets/ph.js",
+      "backup_url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/pornhub.js"
     },
     {
       "id": "unknow.baranwang.xvideos",
@@ -64,7 +70,28 @@
       "requiredVersion": "0.0.1",
       "version": "0.9.4",
       "author": "Baran",
-      "url": "https://widgets-xd.vercel.app/Widgets/xvideos.js"
+      "url": "https://for-ward.vercel.app/Widgets/xvideos.js",
+      "backup_url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/unknow.baranwang.xvideos.js"
+    },
+    {
+      "id": "hanime1_me_style",
+      "title": "Hanime1",
+      "description": "获取 Hanime1 动画，折扣码gold",
+      "requiredVersion": "0.0.2",
+      "version": "2.1.1",
+      "author": "gr294949",
+      "url": "https://for-ward.vercel.app/Widgets/hanime1.js",
+      "backup_url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/hanime1_me_style.js"
+    },
+    {
+      "id": "Bitch",
+      "title": "Bitch Lives",
+      "description": "🎥 Bitch Lives",
+      "requiredVersion": "0.0.1",
+      "version": "0.0.1",
+      "author": "Discount Code：VEUS",
+      "url": "https://gist.githubusercontent.com/MrRegret/61a5cbf0637b95a0d800994a51860fb2/raw",
+      "backup_url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/bitch.js"
     },
   ]
 }
