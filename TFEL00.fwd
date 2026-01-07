@@ -13,13 +13,13 @@
       "url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/forward.combined.media.lists.en.js"
     },
     {
-      "id": "douban",
-      "title": "豆瓣",
-      "description": "解析豆瓣片单，获取视频信息",
+      "id": "forward.combined.media.lists",
+      "title": "影视榜单",
+      "description": "聚合豆瓣、TMDB、IMDB和Bangumi的影视动画榜单",
       "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "pack1r",
-      "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/douban.js"
+      "version": "1.3.1",
+      "author": "阿米诺斯",
+      "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/combined.js"
     },
     {
       "id": "zhuijurili",
