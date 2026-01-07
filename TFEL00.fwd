@@ -13,13 +13,13 @@
       "url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/forward.combined.media.lists.en.js"
     },
     {
-      "id": "bangumi_charts_tmdb_v3",
-      "title": "Bangumi榜单",
-      "description": "获取Bangumi近期热门、每日放送数据，支持榜单筛选。",
+      "id": "douban",
+      "title": "豆瓣",
+      "description": "解析豆瓣片单，获取视频信息",
       "requiredVersion": "0.0.1",
-      "version": "2.0.0", 
-      "author": "Autism",
-      "url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/Bangumi_v2.0.0.js"
+      "version": "1.0.0",
+      "author": "pack1r",
+      "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/douban.js"
     },
     {
       "id": "zhuijurili",
@@ -29,6 +29,15 @@
       "version": "1.0.4",
       "author": "huangxd",
       "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/zhuijurili.js"
+    },
+    {
+      "id": "bangumi_charts_tmdb_v3",
+      "title": "Bangumi榜单",
+      "description": "获取Bangumi近期热门、每日放送数据，支持榜单筛选。",
+      "requiredVersion": "0.0.1",
+      "version": "2.0.0", 
+      "author": "Autism",
+      "url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/Bangumi_v2.0.0.js"
     },
     {
       "id": "baranwang.danmu.universe",
