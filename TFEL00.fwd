@@ -4,15 +4,6 @@
   "icon": "https://raw.githubusercontent.com/TFEL00/ForwardWidgets/refs/heads/main/icon1.PNG",
   "widgets": [
     {
-      "id": "影视榜单1.0.0",
-      "title": "影视榜单",
-      "description": "聚合豆瓣、TMDB的影视榜单",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "阿米诺斯",
-      "url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/forward.combined.media.lists.en.js"
-    },
-    {
       "id": "forward.combined.media.lists",
       "title": "影视榜单",
       "description": "聚合豆瓣、TMDB、IMDB和Bangumi的影视动画榜单",
