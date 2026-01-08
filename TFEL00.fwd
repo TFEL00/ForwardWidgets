@@ -17,9 +17,9 @@
       "title": "影视榜单",
       "description": "聚合豆瓣、TMDB、IMDB和Bangumi的影视动画榜单",
       "requiredVersion": "0.0.1",
-      "version": "1.3.1",
+      "version": "1.3.9",
       "author": "阿米诺斯",
-      "url": "https://raw.githubusercontent.com/TFEL00/ForwardWidgets/refs/heads/main/widgets/影视榜单.js"
+      "url": "https://raw.githubusercontent.com/TFEL00/ForwardWidgets/refs/heads/main/widgets/combined.js"
     },
     {
       "id": "zhuijurili",
