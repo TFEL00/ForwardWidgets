@@ -6,11 +6,20 @@
     {
       "id": "forward.combined.media.lists",
       "title": "影视榜单",
-      "description": "聚合豆瓣、TMDB、IMDB和Bangumi的影视动画榜单",
+      "description": "聚合TMDB、豆瓣的影视榜单",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "阿米诺斯",
-      "url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/forward.combined.media.lists.js"
+      "url": "https://for-ward.vercel.app/Widgets/Move_list.js"
+    },
+    {
+      "id": " popular media.lists",
+      "title": "热门榜单",
+      "description": "TMDB热门影视聚合",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Crush7s",
+      "url": "https://raw.githubusercontent.com/Cvsly/Forward/refs/heads/main/Widgets/movie_shows.js"
     },
     {
       "id": "zhuijurili",
