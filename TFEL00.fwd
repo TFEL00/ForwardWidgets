@@ -6,11 +6,11 @@
     {
       "id": "forward.combined.media.lists",
       "title": "影视榜单",
-      "description": "聚合TMDB、豆瓣的影视榜单",
+      "description": "聚合影视榜单",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
-      "author": "阿米诺斯",
-      "url": "https://raw.githubusercontent.com/TFEL00/ForwardWidgets/refs/heads/main/widgets/Movie & TV Lists.js"
+      "author": "TFEL",
+      "url": "https://raw.githubusercontent.com/saxdyo/FWWidgets/refs/heads/main/fw3.js"
     },
     {
       "id": " popular media.lists",
