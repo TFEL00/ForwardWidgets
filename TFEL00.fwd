@@ -10,16 +10,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "TFEL",
-      "url": "https://raw.githubusercontent.com/saxdyo/FWWidgets/refs/heads/main/fw3.js"
-    },
-    {
-      "id": " popular media.lists",
-      "title": "热门榜单",
-      "description": "TMDB热门影视聚合",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Crush7s",
-      "url": "https://raw.githubusercontent.com/Cvsly/Forward/refs/heads/main/Widgets/movie_shows.js"
+      "url": "https://raw.githubusercontent.com/saxdyo/FWWidgets/refs/heads/main/fw4.js"
     },
     {
       "id": "zhuijurili",
