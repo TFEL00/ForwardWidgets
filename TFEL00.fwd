@@ -13,15 +13,6 @@
       "url": "https://raw.githubusercontent.com/saxdyo/FWWidgets/refs/heads/main/fw4.js"
     },
     {
-      "id": " popular media.lists",
-      "title": "热门榜单",
-      "description": "TMDB热门影视聚合",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Crush7s",
-      "url": "https://raw.githubusercontent.com/Cvsly/Forward/refs/heads/main/Widgets/movie_shows.js"
-    },
-    {
       "id": "zhuijurili",
       "title": "追剧日历",
       "description": "解析追剧日历、周历、各项榜单、今日推荐等",
