@@ -6,11 +6,11 @@
     {
       "id": "forward.combined.media.lists",
       "title": "影视榜单",
-      "description": "聚合影视榜单",
+      "description": "聚合TMDB影视榜单",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
-      "author": "TFEL",
-      "url": "https://raw.githubusercontent.com/saxdyo/FWWidgets/refs/heads/main/fw4.js"
+      "author": "",
+      "url": "https://for-ward.vercel.app/Widgets/Move_lists.js"
     },
     {
       "id": "zhuijurili",
