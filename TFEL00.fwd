@@ -8,9 +8,9 @@
       "title": "影视榜单",
       "description": "聚合TMDB影视榜单",
       "requiredVersion": "0.0.2",
-      "version": "2.0.0",
+      "version": "1.5.0",
       "author": "𝓑𝓾𝓽𝓽𝓮𝓻𝓯𝓵𝔂",
-      "url": "https://raw.githubusercontent.com/saxdyo/FWWidgets/refs/heads/main/fw2.js"
+      "url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/combined.js"
     },
     {
       "id": "zhuijurili",
