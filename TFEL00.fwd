@@ -13,6 +13,51 @@
       "url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/combined.js"
     },
     {
+      "id": "ultimate_media_hub_pro_ui",
+      "title": "全球影视分流",
+      "description": "Trakt/豆瓣/平台分流，全线支持【日期•类型】展示。",
+      "requiredVersion": "0.0.1",
+      "version": "1.3.4",
+      "author": "𝙈𝙖𝙠𝙠𝙖𝙋𝙖𝙠𝙠𝙖",
+      "url": "https://raw.githubusercontent.com/MakkaPakka518/FW/refs/heads/main/widgets/normal/mediahub.js"
+    },
+    {
+      "id": "imdb_cn_fix_",
+      "title": "IMDB热榜",
+      "description": "IMDB全球榜单，支持日/周纬度切换。",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.5",
+      "author": "𝙈𝙖𝙠𝙠𝙖𝙋𝙖𝙠𝙠𝙖",
+      "url": "https://raw.githubusercontent.com/MakkaPakka518/FW/refs/heads/main/widgets/normal/imdb.js"
+    },
+    {
+      "id": " global_series_makka",
+      "title": "全球影视专区",
+      "description": "自由切换全球十几个国家与地区，探索纯正的本土电影与剧集",
+      "requiredVersion": "0.0.1",
+      "version": "2.1.1",
+      "author": "𝙈𝙖𝙠𝙠𝙖𝙋𝙖𝙠𝙠𝙖",
+      "url": "https://raw.githubusercontent.com/MakkaPakka518/FW/refs/heads/main/widgets/normal/Globalseries.js"
+    },
+    {
+      "id": "movie_ultimate_makka_v2",
+      "title": "全能电影榜",
+      "description": "提供流行、高分、年度最佳以及按类型探索电影",
+      "requiredVersion": "0.0.1",
+      "version": "1.4.0",
+      "author": "𝙈𝙖𝙠𝙠𝙖𝙋𝙖𝙠𝙠𝙖",
+      "url": "https://raw.githubusercontent.com/MakkaPakka518/FW/refs/heads/main/widgets/normal/movielist.js"
+    },
+    {
+      "id": "tmdb_upcoming_center_makka",
+      "title": "即将上映与热映榜",
+      "description": "追踪院线即将上映的电影与最新剧集，热度显示，不错过任何一部大片",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.1",
+      "author": "𝙈𝙖𝙠𝙠𝙖𝙋𝙖𝙠𝙠𝙖",
+      "url": "https://raw.githubusercontent.com/MakkaPakka518/FW/refs/heads/main/widgets/normal/redu.js"
+    },
+    {
       "id": "zhuijurili",
       "title": "追剧日历",
       "description": "解析追剧日历、周历、各项榜单、今日推荐等",
@@ -22,13 +67,40 @@
       "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/zhuijurili.js"
     },
     {
-      "id": "bangumi_charts_tmdb_v3",
-      "title": "Bangumi榜单",
-      "description": "获取Bangumi近期热门、每日放送数据，支持榜单筛选。",
+      "id": "trakt_personal_mixed",
+      "title": "Trak追剧日历",
+      "description": "显示Trakt最新追剧更新时间和待看/收藏/历史。",
       "requiredVersion": "0.0.1",
-      "version": "2.0.0", 
-      "author": "Autism",
-      "url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/Bangumi_v2.0.0.js"
+      "version": "1.1.9",
+      "author": "𝙈𝙖𝙠𝙠𝙖𝙋𝙖𝙠𝙠𝙖",
+      "url": "https://raw.githubusercontent.com/MakkaPakka518/FW/refs/heads/main/widgets/normal/trakt.js"
+    },
+    {
+      "id": "variety_hub_ultimate_v4_fix",
+      "title": "全球综艺追更热度榜",
+      "description": "综艺更新时间表，热度榜",
+      "requiredVersion": "0.0.1",
+      "version": "2.0.4",
+      "author": "𝙈𝙖𝙠𝙠𝙖𝙋𝙖𝙠𝙠𝙖",
+      "url": "https://raw.githubusercontent.com/MakkaPakka518/FW/refs/heads/main/widgets/normal/zongyi.js"
+    },
+    {
+      "id": "anime_omni_fix",
+      "title": "二次元全境聚合",
+      "description": "一站式聚合多平台动漫榜单。",
+      "requiredVersion": "0.0.1",
+      "version": "2.4.2",
+      "author": "𝙈𝙖𝙠𝙠𝙖𝙋𝙖𝙠𝙠𝙖",
+      "url": "https://raw.githubusercontent.com/MakkaPakka518/FW/refs/heads/main/widgets/normal/dongmanone.js"
+    },
+    {
+      "id": "vod_max_engine_makka",
+      "title": "VOD资源聚合",
+      "description": "内置海量采集接口",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "𝙈𝙖𝙠𝙠𝙖𝙋𝙖𝙠𝙠𝙖",
+      "url": "https://raw.githubusercontent.com/MakkaPakka518/FW/refs/heads/main/widgets/normal/VodMax.js"
     },
     {
       "id": "baranwang.danmu.universe",
@@ -44,9 +116,18 @@
       "title": "自动链接弹幕",
       "description": "自动获取播放链接并从服务器获取弹幕",
       "requiredVersion": "0.0.2",
-      "version": "1.13.6",
+      "version": "1.15.3",
       "author": "huangxd",
       "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/danmu_auto.js"
     },
+    {
+      "id": "danmu.pro.online",
+      "title": "弹幕多源",
+      "description": "支持多api、繁简互转、数量限制、关键词屏蔽、颜色重写",
+      "requiredVersion": "0.0.1",
+      "version": "1.1.5",
+      "author": "𝙈𝙖𝙠𝙠𝙖𝙋𝙖𝙠𝙠𝙖",
+      "url": "https://raw.githubusercontent.com/MakkaPakka518/FW/refs/heads/main/widgets/normal/danmuapipro.js"
+    }
   ]
 }
