@@ -13,15 +13,6 @@
       "url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/combined.js"
     },
     {
-      "id": "forward.combined.media.lists",
-      "title": "影视榜单",
-      "description": "聚合TMDB影视榜单",
-      "requiredVersion": "0.0.1",
-      "version": "2.4.2",
-      "author": "𝓑𝓾𝓽𝓽𝓮𝓻𝓯𝓵𝔂",
-      "url": "https://fwd.luvme.indevs.in/api/download?path=dongmanone.js"
-    },
-    {
       "id": "zhuijurili",
       "title": "追剧日历",
       "description": "解析追剧日历、周历、各项榜单、今日推荐等",
